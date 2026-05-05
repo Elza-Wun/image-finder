@@ -9,6 +9,7 @@ import Modal from "./Components/Modal";
 import Button from "./Components/Button";
 import arrow from "./assets/arrow.png";
 
+
 const App = () => {
   const [images, setImages] = useState([]);
   const [query, setQuery] = useState("cats");
